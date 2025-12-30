@@ -1,4 +1,4 @@
-# Hi I'm Rohit 😁
+# Hi I'm Rohit 👨🏽‍💻
 
 - I'm a Enthustiastic MERN Stack Developer 🧠.
 - Currently Exploring the depths of the technologies.
